@@ -1,0 +1,60 @@
+{
+    "storiesData": [
+        {
+            "id": 1,
+            "projectId": 1,
+            "name": "Test Story 1",
+            "description": "This is test story",
+            "status": "incomplete"
+        },
+        {
+            "id": 2,
+            "projectId": 1,
+            "name": "Test Story 2",
+            "description": "This is test story",
+            "status": "incomplete"
+        },
+        {
+            "id": 3,
+            "projectId": 1,
+            "name": "Test Story 3",
+            "description": "This is test story",
+            "status": "incomplete"
+        },
+        {
+            "id": 4,
+            "projectId": 1,
+            "name": "Test Story 4",
+            "description": "This is test story",
+            "status": "incomplete"
+        },
+        {
+            "id": 5,
+            "projectId": 2,
+            "name": "Test Story 5",
+            "description": "This is test story",
+            "status": "incomplete"
+        },
+        {
+            "id": 6,
+            "projectId": 2,
+            "name": "Test Story 6",
+            "description": "This is test story",
+            "status": "incomplete"
+        },
+        {
+            "id": 7,
+            "projectId": 2,
+            "name": "Test Story 7",
+            "description": "This is test story",
+            "status": "incomplete"
+        },
+        {
+            "id": 8,
+            "projectId": 2,
+            "name": "Test Story 8",
+            "description": "This is test story",
+            "status": "incomplete"
+        }
+    ]
+}
